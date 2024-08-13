@@ -1,0 +1,4 @@
+.env
+# Ignore Python bytecode files in src directory
+src/__pycache__/
+src/*.pyc
